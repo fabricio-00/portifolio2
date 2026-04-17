@@ -135,14 +135,14 @@ function App() {
                 descricao="Em andamento" 
                 tag="Em Testes" 
                 imagem={projt} 
-                link="https://github.com/fabricio-00/portifolio" 
+                link="https://github.com/fabricio-00/portifolio2" 
               />
               <ProjectCard 
                 titulo="Em breve" 
                 descricao="Plataforma e-learning" 
                 tag="Em desenvolvimento" 
                 imagem={projt2} 
-                link="https://github.com/fabricio-00/portifolio" 
+                link="https://github.com/fabricio-00/portifolio2" 
               />
             </div>
           </div>
@@ -153,7 +153,7 @@ function App() {
             <h2 className="section-title">Vamos Conectar</h2>
             <div className="contact-box">
               <div className="contact-links">
-                <a href="https://github.com/fabricio-00/portifolio" className="contact-btn github-link"><i className="fab fa-github"></i> GitHub</a>
+                <a href="https://github.com/fabricio-00/portifolio2" className="contact-btn github-link"><i className="fab fa-github"></i> GitHub</a>
                 <a href={`https://wa.me/${PHONE_NUMBER}`} className="contact-btn whatsapp-link"><i className="fab fa-whatsapp"></i> WhatsApp</a>
               </div>
 
